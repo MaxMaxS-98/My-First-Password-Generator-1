@@ -1,3 +1,6 @@
+Published link: 
+https://maxmaxs-98.github.io/My-First-Password-Generator-1/
+
 # My-Password-Generator
 
 # Description
